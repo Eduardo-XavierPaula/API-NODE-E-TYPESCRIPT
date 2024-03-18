@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "ts-node-dev src/index.ts",
     "build": "npx tsc",
-    "production": "node ./build/index.js",
+    "start": "node ./build/index.js",
     "test": "jest"
   },
   "author": "Eduardo de Paula Xavier",
